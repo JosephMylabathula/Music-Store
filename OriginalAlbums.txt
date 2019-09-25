@@ -1,0 +1,149 @@
+Continuum
+John Mayer
+Pop
+2006
+25.00
+
+Lemonade
+Beyonce
+Pop
+2013
+25.00
+
+Graduation
+Kanye West
+Hip Hop
+2007
+25.00
+
+Ambitionz As A Ridah
+Tupac Shakur
+Hip Hop
+1996
+20.00
+
+AM
+Artic Monkeys
+Rock
+2013
+20.00
+
+Abbey Road
+The Beatles
+Pop
+1969
+30.00
+
+Thriller
+Michael Jackson
+Pop
+1982
+30.00
+
+True
+Avicii
+Pop
+2013
+25.00
+
+Speak Now
+Taylor Swift
+Country
+2010
+25.00
+
+Take Care
+Drake
+R&B
+2011
+25.00
+
+King Bee
+Muddy Waters
+Blues
+1981
+20.00
+
+Evil Empire
+Rage Against The Machine
+Metal
+1996
+15.00
+
+Purple Rain
+Prince
+Rock
+1984
+15.00
+
+Pichak
+Ebi
+Pop
+1998
+20.00
+
+25
+Adele
+Pop
+2015
+30.00
+
+Master of Puppets
+Metallica
+Metal
+1986
+25.00
+
+Revival
+Eminem
+Hip Hop
+2017
+20.00
+
+24K Magic
+Bruno Mars
+Pop
+2016
+25.00
+
+Anti
+Rihanna
+Pop
+2016
+20.00
+
+x
+Ed Sheeran
+Pop
+2014
+15.00
+
+The Wall
+Pink Floyd
+Rock
+1979
+15.00
+
+Radikal
+Shahin Najafi
+Rock
+2017
+10.00
+
+Innervisions
+Steview Wonder
+Blues
+1973
+15.00
+
+Let's Talk About Love
+Celine Dione
+Pop
+1998
+15.00
+
+El Dorado
+Shakira
+Pop
+2017
+25.00

@@ -1,0 +1,16 @@
+
+Order 1: 
+
+Album title: Abbey Road
+Artist: The Beatles
+Genre: Pop
+Release Year: 1969
+Price: $30.00
+
+total price: 30.00
+order time: Sat Sep 14 17:34:50 2019
+
+order number: 1
+shipping: 5.99
+shipping method: Rush shipping
+
